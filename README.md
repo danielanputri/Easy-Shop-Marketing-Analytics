@@ -2,9 +2,13 @@
 
 ## Preview
 
+### Overview
 ![Overview](https://github.com/danielanputri/Easy-Shop-Marketing-Analytics/blob/main/imagePreview/Overview.png)
+### Conversion Detail
 ![Conversion Detail](https://github.com/danielanputri/Easy-Shop-Marketing-Analytics/blob/main/imagePreview/Conversion%20Detail.png)
+### Social Media Detail
 ![Social Media Detail](https://github.com/danielanputri/Easy-Shop-Marketing-Analytics/blob/main/imagePreview/Social%20Media%20Detail.png)
+### Customer Review Detail
 ![Cutsomer Review Detail](https://github.com/danielanputri/Easy-Shop-Marketing-Analytics/blob/main/imagePreview/Customer%20Review%20Detail.png)
 
 ## Description
